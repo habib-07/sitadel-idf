@@ -1,0 +1,561 @@
+annee,dept,dept_lib,type_lgt,log_aut,log_com
+2011,75,Paris,Collectif,7976,2734
+2011,75,Paris,Indiv_groupe,1056,22
+2011,75,Paris,Indiv_pur,200,112
+2011,75,Paris,Residence,4704,1938
+2011,75,Paris,Tous,13936,4806
+2011,77,Seine-et-Marne,Collectif,5970,4288
+2011,77,Seine-et-Marne,Indiv_groupe,1443,1161
+2011,77,Seine-et-Marne,Indiv_pur,1934,1514
+2011,77,Seine-et-Marne,Residence,469,13
+2011,77,Seine-et-Marne,Tous,9816,6976
+2011,78,Yvelines,Collectif,5824,4133
+2011,78,Yvelines,Indiv_groupe,1040,1238
+2011,78,Yvelines,Indiv_pur,1214,977
+2011,78,Yvelines,Residence,470,525
+2011,78,Yvelines,Tous,8548,6873
+2011,91,Essonne,Collectif,6354,5267
+2011,91,Essonne,Indiv_groupe,863,711
+2011,91,Essonne,Indiv_pur,1215,878
+2011,91,Essonne,Residence,473,376
+2011,91,Essonne,Tous,8905,7232
+2011,92,Hauts-de-Seine,Collectif,8275,3863
+2011,92,Hauts-de-Seine,Indiv_groupe,552,712
+2011,92,Hauts-de-Seine,Indiv_pur,253,204
+2011,92,Hauts-de-Seine,Residence,521,257
+2011,92,Hauts-de-Seine,Tous,9601,5036
+2011,93,Seine-Saint-Denis,Collectif,9334,6506
+2011,93,Seine-Saint-Denis,Indiv_groupe,409,306
+2011,93,Seine-Saint-Denis,Indiv_pur,449,277
+2011,93,Seine-Saint-Denis,Residence,1596,1553
+2011,93,Seine-Saint-Denis,Tous,11788,8642
+2011,94,Val-de-Marne,Collectif,6453,3222
+2011,94,Val-de-Marne,Indiv_groupe,673,597
+2011,94,Val-de-Marne,Indiv_pur,420,254
+2011,94,Val-de-Marne,Residence,1001,780
+2011,94,Val-de-Marne,Tous,8547,4853
+2011,95,Val-d Oise,Collectif,5069,3503
+2011,95,Val-d Oise,Indiv_groupe,627,471
+2011,95,Val-d Oise,Indiv_pur,939,626
+2011,95,Val-d Oise,Residence,422,116
+2011,95,Val-d Oise,Tous,7057,4716
+2012,75,Paris,Collectif,9222,6600
+2012,75,Paris,Indiv_groupe,82,38
+2012,75,Paris,Indiv_pur,140,106
+2012,75,Paris,Residence,1384,1304
+2012,75,Paris,Tous,10828,8048
+2012,77,Seine-et-Marne,Collectif,5365,3949
+2012,77,Seine-et-Marne,Indiv_groupe,1552,669
+2012,77,Seine-et-Marne,Indiv_pur,1770,1373
+2012,77,Seine-et-Marne,Residence,470,520
+2012,77,Seine-et-Marne,Tous,9157,6511
+2012,78,Yvelines,Collectif,6201,4082
+2012,78,Yvelines,Indiv_groupe,804,680
+2012,78,Yvelines,Indiv_pur,1101,918
+2012,78,Yvelines,Residence,976,231
+2012,78,Yvelines,Tous,9082,5911
+2012,91,Essonne,Collectif,5918,4339
+2012,91,Essonne,Indiv_groupe,794,737
+2012,91,Essonne,Indiv_pur,1167,810
+2012,91,Essonne,Residence,1773,703
+2012,91,Essonne,Tous,9652,6589
+2012,92,Hauts-de-Seine,Collectif,7456,6664
+2012,92,Hauts-de-Seine,Indiv_groupe,375,377
+2012,92,Hauts-de-Seine,Indiv_pur,227,181
+2012,92,Hauts-de-Seine,Residence,1545,967
+2012,92,Hauts-de-Seine,Tous,9603,8189
+2012,93,Seine-Saint-Denis,Collectif,9544,6536
+2012,93,Seine-Saint-Denis,Indiv_groupe,489,299
+2012,93,Seine-Saint-Denis,Indiv_pur,469,238
+2012,93,Seine-Saint-Denis,Residence,1919,1589
+2012,93,Seine-Saint-Denis,Tous,12421,8662
+2012,94,Val-de-Marne,Collectif,7016,5405
+2012,94,Val-de-Marne,Indiv_groupe,399,394
+2012,94,Val-de-Marne,Indiv_pur,357,238
+2012,94,Val-de-Marne,Residence,1319,296
+2012,94,Val-de-Marne,Tous,9091,6333
+2012,95,Val-d Oise,Collectif,5974,4206
+2012,95,Val-d Oise,Indiv_groupe,749,671
+2012,95,Val-d Oise,Indiv_pur,874,556
+2012,95,Val-d Oise,Residence,294,353
+2012,95,Val-d Oise,Tous,7891,5786
+2013,75,Paris,Collectif,4572,5098
+2013,75,Paris,Indiv_groupe,56,72
+2013,75,Paris,Indiv_pur,388,88
+2013,75,Paris,Residence,922,2046
+2013,75,Paris,Tous,5938,7304
+2013,77,Seine-et-Marne,Collectif,6366,4265
+2013,77,Seine-et-Marne,Indiv_groupe,1006,805
+2013,77,Seine-et-Marne,Indiv_pur,1466,1219
+2013,77,Seine-et-Marne,Residence,1050,104
+2013,77,Seine-et-Marne,Tous,9888,6393
+2013,78,Yvelines,Collectif,5475,5138
+2013,78,Yvelines,Indiv_groupe,714,785
+2013,78,Yvelines,Indiv_pur,1070,816
+2013,78,Yvelines,Residence,675,1202
+2013,78,Yvelines,Tous,7934,7941
+2013,91,Essonne,Collectif,7322,5574
+2013,91,Essonne,Indiv_groupe,575,477
+2013,91,Essonne,Indiv_pur,1099,784
+2013,91,Essonne,Residence,594,535
+2013,91,Essonne,Tous,9590,7370
+2013,92,Hauts-de-Seine,Collectif,7804,5173
+2013,92,Hauts-de-Seine,Indiv_groupe,261,461
+2013,92,Hauts-de-Seine,Indiv_pur,208,158
+2013,92,Hauts-de-Seine,Residence,855,471
+2013,92,Hauts-de-Seine,Tous,9128,6263
+2013,93,Seine-Saint-Denis,Collectif,6896,6562
+2013,93,Seine-Saint-Denis,Indiv_groupe,409,245
+2013,93,Seine-Saint-Denis,Indiv_pur,399,209
+2013,93,Seine-Saint-Denis,Residence,762,477
+2013,93,Seine-Saint-Denis,Tous,8466,7493
+2013,94,Val-de-Marne,Collectif,3890,4673
+2013,94,Val-de-Marne,Indiv_groupe,213,220
+2013,94,Val-de-Marne,Indiv_pur,348,224
+2013,94,Val-de-Marne,Residence,724,1138
+2013,94,Val-de-Marne,Tous,5175,6255
+2013,95,Val-d Oise,Collectif,4579,3344
+2013,95,Val-d Oise,Indiv_groupe,452,191
+2013,95,Val-d Oise,Indiv_pur,718,539
+2013,95,Val-d Oise,Residence,392,145
+2013,95,Val-d Oise,Tous,6141,4219
+2014,75,Paris,Collectif,6294,4274
+2014,75,Paris,Indiv_groupe,48,174
+2014,75,Paris,Indiv_pur,540,112
+2014,75,Paris,Residence,3588,2460
+2014,75,Paris,Tous,10470,7020
+2014,77,Seine-et-Marne,Collectif,4915,4479
+2014,77,Seine-et-Marne,Indiv_groupe,669,941
+2014,77,Seine-et-Marne,Indiv_pur,1601,1008
+2014,77,Seine-et-Marne,Residence,982,779
+2014,77,Seine-et-Marne,Tous,8167,7207
+2014,78,Yvelines,Collectif,4519,3181
+2014,78,Yvelines,Indiv_groupe,514,307
+2014,78,Yvelines,Indiv_pur,1061,848
+2014,78,Yvelines,Residence,479,380
+2014,78,Yvelines,Tous,6573,4716
+2014,91,Essonne,Collectif,4236,4294
+2014,91,Essonne,Indiv_groupe,429,401
+2014,91,Essonne,Indiv_pur,1120,684
+2014,91,Essonne,Residence,650,365
+2014,91,Essonne,Tous,6435,5744
+2014,92,Hauts-de-Seine,Collectif,6192,5529
+2014,92,Hauts-de-Seine,Indiv_groupe,122,172
+2014,92,Hauts-de-Seine,Indiv_pur,260,174
+2014,92,Hauts-de-Seine,Residence,961,978
+2014,92,Hauts-de-Seine,Tous,7535,6853
+2014,93,Seine-Saint-Denis,Collectif,8448,6563
+2014,93,Seine-Saint-Denis,Indiv_groupe,380,337
+2014,93,Seine-Saint-Denis,Indiv_pur,390,228
+2014,93,Seine-Saint-Denis,Residence,640,1223
+2014,93,Seine-Saint-Denis,Tous,9858,8351
+2014,94,Val-de-Marne,Collectif,6671,3679
+2014,94,Val-de-Marne,Indiv_groupe,343,157
+2014,94,Val-de-Marne,Indiv_pur,409,269
+2014,94,Val-de-Marne,Residence,1557,134
+2014,94,Val-de-Marne,Tous,8980,4239
+2014,95,Val-d Oise,Collectif,4387,4634
+2014,95,Val-d Oise,Indiv_groupe,400,155
+2014,95,Val-d Oise,Indiv_pur,725,454
+2014,95,Val-d Oise,Residence,1943,372
+2014,95,Val-d Oise,Tous,7455,5615
+2015,75,Paris,Collectif,7066,6470
+2015,75,Paris,Indiv_groupe,56,48
+2015,75,Paris,Indiv_pur,478,84
+2015,75,Paris,Residence,3280,3138
+2015,75,Paris,Tous,10880,9740
+2015,77,Seine-et-Marne,Collectif,5811,4003
+2015,77,Seine-et-Marne,Indiv_groupe,979,520
+2015,77,Seine-et-Marne,Indiv_pur,1963,1234
+2015,77,Seine-et-Marne,Residence,539,572
+2015,77,Seine-et-Marne,Tous,9292,6329
+2015,78,Yvelines,Collectif,6493,5072
+2015,78,Yvelines,Indiv_groupe,457,396
+2015,78,Yvelines,Indiv_pur,1149,798
+2015,78,Yvelines,Residence,820,419
+2015,78,Yvelines,Tous,8919,6685
+2015,91,Essonne,Collectif,5121,3222
+2015,91,Essonne,Indiv_groupe,997,401
+2015,91,Essonne,Indiv_pur,1232,830
+2015,91,Essonne,Residence,2276,2832
+2015,91,Essonne,Tous,9626,7285
+2015,92,Hauts-de-Seine,Collectif,6569,5690
+2015,92,Hauts-de-Seine,Indiv_groupe,237,111
+2015,92,Hauts-de-Seine,Indiv_pur,266,196
+2015,92,Hauts-de-Seine,Residence,1642,739
+2015,92,Hauts-de-Seine,Tous,8714,6736
+2015,93,Seine-Saint-Denis,Collectif,9685,7618
+2015,93,Seine-Saint-Denis,Indiv_groupe,358,229
+2015,93,Seine-Saint-Denis,Indiv_pur,450,292
+2015,93,Seine-Saint-Denis,Residence,1897,455
+2015,93,Seine-Saint-Denis,Tous,12390,8594
+2015,94,Val-de-Marne,Collectif,7146,6064
+2015,94,Val-de-Marne,Indiv_groupe,570,398
+2015,94,Val-de-Marne,Indiv_pur,402,290
+2015,94,Val-de-Marne,Residence,2488,2033
+2015,94,Val-de-Marne,Tous,10606,8785
+2015,95,Val-d Oise,Collectif,4395,3789
+2015,95,Val-d Oise,Indiv_groupe,543,371
+2015,95,Val-d Oise,Indiv_pur,788,469
+2015,95,Val-d Oise,Residence,908,1428
+2015,95,Val-d Oise,Tous,6634,6057
+2016,75,Paris,Collectif,5134,2950
+2016,75,Paris,Indiv_groupe,86,40
+2016,75,Paris,Indiv_pur,542,86
+2016,75,Paris,Residence,2436,590
+2016,75,Paris,Tous,8198,3666
+2016,77,Seine-et-Marne,Collectif,6860,5306
+2016,77,Seine-et-Marne,Indiv_groupe,810,877
+2016,77,Seine-et-Marne,Indiv_pur,2100,1233
+2016,77,Seine-et-Marne,Residence,483,680
+2016,77,Seine-et-Marne,Tous,10253,8096
+2016,78,Yvelines,Collectif,7145,4714
+2016,78,Yvelines,Indiv_groupe,595,405
+2016,78,Yvelines,Indiv_pur,1282,926
+2016,78,Yvelines,Residence,693,527
+2016,78,Yvelines,Tous,9715,6572
+2016,91,Essonne,Collectif,6345,4076
+2016,91,Essonne,Indiv_groupe,732,671
+2016,91,Essonne,Indiv_pur,1395,936
+2016,91,Essonne,Residence,2233,2018
+2016,91,Essonne,Tous,10705,7701
+2016,92,Hauts-de-Seine,Collectif,11999,7662
+2016,92,Hauts-de-Seine,Indiv_groupe,257,324
+2016,92,Hauts-de-Seine,Indiv_pur,296,201
+2016,92,Hauts-de-Seine,Residence,1313,1532
+2016,92,Hauts-de-Seine,Tous,13865,9719
+2016,93,Seine-Saint-Denis,Collectif,13305,8949
+2016,93,Seine-Saint-Denis,Indiv_groupe,245,237
+2016,93,Seine-Saint-Denis,Indiv_pur,445,308
+2016,93,Seine-Saint-Denis,Residence,1702,1497
+2016,93,Seine-Saint-Denis,Tous,15697,10991
+2016,94,Val-de-Marne,Collectif,7533,6127
+2016,94,Val-de-Marne,Indiv_groupe,303,373
+2016,94,Val-de-Marne,Indiv_pur,471,302
+2016,94,Val-de-Marne,Residence,1391,1873
+2016,94,Val-de-Marne,Tous,9698,8675
+2016,95,Val-d Oise,Collectif,7432,4031
+2016,95,Val-d Oise,Indiv_groupe,586,465
+2016,95,Val-d Oise,Indiv_pur,839,586
+2016,95,Val-d Oise,Residence,452,754
+2016,95,Val-d Oise,Tous,9309,5836
+2017,75,Paris,Collectif,6710,5494
+2017,75,Paris,Indiv_groupe,64,48
+2017,75,Paris,Indiv_pur,482,84
+2017,75,Paris,Residence,1298,2500
+2017,75,Paris,Tous,8554,8126
+2017,77,Seine-et-Marne,Collectif,9040,5398
+2017,77,Seine-et-Marne,Indiv_groupe,916,754
+2017,77,Seine-et-Marne,Indiv_pur,2257,1442
+2017,77,Seine-et-Marne,Residence,1166,577
+2017,77,Seine-et-Marne,Tous,13379,8171
+2017,78,Yvelines,Collectif,8404,8029
+2017,78,Yvelines,Indiv_groupe,576,610
+2017,78,Yvelines,Indiv_pur,1408,1058
+2017,78,Yvelines,Residence,630,1215
+2017,78,Yvelines,Tous,11018,10912
+2017,91,Essonne,Collectif,6475,4593
+2017,91,Essonne,Indiv_groupe,888,527
+2017,91,Essonne,Indiv_pur,1459,966
+2017,91,Essonne,Residence,1293,1045
+2017,91,Essonne,Tous,10115,7131
+2017,92,Hauts-de-Seine,Collectif,11001,10967
+2017,92,Hauts-de-Seine,Indiv_groupe,171,179
+2017,92,Hauts-de-Seine,Indiv_pur,273,205
+2017,92,Hauts-de-Seine,Residence,2388,2669
+2017,92,Hauts-de-Seine,Tous,13833,14020
+2017,93,Seine-Saint-Denis,Collectif,14062,12787
+2017,93,Seine-Saint-Denis,Indiv_groupe,349,256
+2017,93,Seine-Saint-Denis,Indiv_pur,412,309
+2017,93,Seine-Saint-Denis,Residence,1843,2467
+2017,93,Seine-Saint-Denis,Tous,16666,15819
+2017,94,Val-de-Marne,Collectif,9213,7094
+2017,94,Val-de-Marne,Indiv_groupe,313,193
+2017,94,Val-de-Marne,Indiv_pur,465,351
+2017,94,Val-de-Marne,Residence,2519,2275
+2017,94,Val-de-Marne,Tous,12510,9913
+2017,95,Val-d Oise,Collectif,8838,6151
+2017,95,Val-d Oise,Indiv_groupe,438,298
+2017,95,Val-d Oise,Indiv_pur,844,612
+2017,95,Val-d Oise,Residence,922,853
+2017,95,Val-d Oise,Tous,11042,7914
+2018,75,Paris,Collectif,4352,4142
+2018,75,Paris,Indiv_groupe,56,58
+2018,75,Paris,Indiv_pur,298,74
+2018,75,Paris,Residence,3304,2012
+2018,75,Paris,Tous,8010,6286
+2018,77,Seine-et-Marne,Collectif,6322,7624
+2018,77,Seine-et-Marne,Indiv_groupe,586,505
+2018,77,Seine-et-Marne,Indiv_pur,2155,1422
+2018,77,Seine-et-Marne,Residence,1049,1560
+2018,77,Seine-et-Marne,Tous,10112,11111
+2018,78,Yvelines,Collectif,6836,7495
+2018,78,Yvelines,Indiv_groupe,644,451
+2018,78,Yvelines,Indiv_pur,1329,969
+2018,78,Yvelines,Residence,355,118
+2018,78,Yvelines,Tous,9164,9033
+2018,91,Essonne,Collectif,8649,5117
+2018,91,Essonne,Indiv_groupe,741,701
+2018,91,Essonne,Indiv_pur,1326,1064
+2018,91,Essonne,Residence,1286,1702
+2018,91,Essonne,Tous,12002,8584
+2018,92,Hauts-de-Seine,Collectif,15673,9073
+2018,92,Hauts-de-Seine,Indiv_groupe,300,142
+2018,92,Hauts-de-Seine,Indiv_pur,257,196
+2018,92,Hauts-de-Seine,Residence,1152,765
+2018,92,Hauts-de-Seine,Tous,17382,10176
+2018,93,Seine-Saint-Denis,Collectif,14320,10989
+2018,93,Seine-Saint-Denis,Indiv_groupe,394,249
+2018,93,Seine-Saint-Denis,Indiv_pur,432,317
+2018,93,Seine-Saint-Denis,Residence,2333,1079
+2018,93,Seine-Saint-Denis,Tous,17479,12634
+2018,94,Val-de-Marne,Collectif,8533,7674
+2018,94,Val-de-Marne,Indiv_groupe,213,238
+2018,94,Val-de-Marne,Indiv_pur,410,294
+2018,94,Val-de-Marne,Residence,920,2299
+2018,94,Val-de-Marne,Tous,10076,10505
+2018,95,Val-d Oise,Collectif,5619,7229
+2018,95,Val-d Oise,Indiv_groupe,657,457
+2018,95,Val-d Oise,Indiv_pur,875,605
+2018,95,Val-d Oise,Residence,820,285
+2018,95,Val-d Oise,Tous,7971,8576
+2019,75,Paris,Collectif,4212,2406
+2019,75,Paris,Indiv_groupe,58,24
+2019,75,Paris,Indiv_pur,224,60
+2019,75,Paris,Residence,1396,2342
+2019,75,Paris,Tous,5890,4832
+2019,77,Seine-et-Marne,Collectif,8136,5064
+2019,77,Seine-et-Marne,Indiv_groupe,906,378
+2019,77,Seine-et-Marne,Indiv_pur,1842,1241
+2019,77,Seine-et-Marne,Residence,1314,473
+2019,77,Seine-et-Marne,Tous,12198,7156
+2019,78,Yvelines,Collectif,5962,5425
+2019,78,Yvelines,Indiv_groupe,534,523
+2019,78,Yvelines,Indiv_pur,1326,1007
+2019,78,Yvelines,Residence,1377,574
+2019,78,Yvelines,Tous,9199,7529
+2019,91,Essonne,Collectif,5128,5823
+2019,91,Essonne,Indiv_groupe,556,531
+2019,91,Essonne,Indiv_pur,1241,964
+2019,91,Essonne,Residence,471,565
+2019,91,Essonne,Tous,7396,7883
+2019,92,Hauts-de-Seine,Collectif,11127,12414
+2019,92,Hauts-de-Seine,Indiv_groupe,192,234
+2019,92,Hauts-de-Seine,Indiv_pur,247,228
+2019,92,Hauts-de-Seine,Residence,215,929
+2019,92,Hauts-de-Seine,Tous,11781,13805
+2019,93,Seine-Saint-Denis,Collectif,13888,12680
+2019,93,Seine-Saint-Denis,Indiv_groupe,322,332
+2019,93,Seine-Saint-Denis,Indiv_pur,436,300
+2019,93,Seine-Saint-Denis,Residence,1512,1984
+2019,93,Seine-Saint-Denis,Tous,16158,15296
+2019,94,Val-de-Marne,Collectif,7034,7164
+2019,94,Val-de-Marne,Indiv_groupe,153,167
+2019,94,Val-de-Marne,Indiv_pur,420,325
+2019,94,Val-de-Marne,Residence,3111,1527
+2019,94,Val-de-Marne,Tous,10718,9183
+2019,95,Val-d Oise,Collectif,5370,4281
+2019,95,Val-d Oise,Indiv_groupe,404,476
+2019,95,Val-d Oise,Indiv_pur,812,657
+2019,95,Val-d Oise,Residence,1104,859
+2019,95,Val-d Oise,Tous,7690,6273
+2020,75,Paris,Collectif,2810,2294
+2020,75,Paris,Indiv_groupe,392,16
+2020,75,Paris,Indiv_pur,158,76
+2020,75,Paris,Residence,2088,602
+2020,75,Paris,Tous,5448,2988
+2020,77,Seine-et-Marne,Collectif,6637,5225
+2020,77,Seine-et-Marne,Indiv_groupe,625,497
+2020,77,Seine-et-Marne,Indiv_pur,1673,1101
+2020,77,Seine-et-Marne,Residence,612,219
+2020,77,Seine-et-Marne,Tous,9547,7042
+2020,78,Yvelines,Collectif,4420,4285
+2020,78,Yvelines,Indiv_groupe,439,482
+2020,78,Yvelines,Indiv_pur,1118,851
+2020,78,Yvelines,Residence,474,791
+2020,78,Yvelines,Tous,6451,6409
+2020,91,Essonne,Collectif,3243,3793
+2020,91,Essonne,Indiv_groupe,393,280
+2020,91,Essonne,Indiv_pur,955,838
+2020,91,Essonne,Residence,418,304
+2020,91,Essonne,Tous,5009,5215
+2020,92,Hauts-de-Seine,Collectif,8130,9678
+2020,92,Hauts-de-Seine,Indiv_groupe,258,109
+2020,92,Hauts-de-Seine,Indiv_pur,218,167
+2020,92,Hauts-de-Seine,Residence,1952,881
+2020,92,Hauts-de-Seine,Tous,10558,10835
+2020,93,Seine-Saint-Denis,Collectif,9615,9320
+2020,93,Seine-Saint-Denis,Indiv_groupe,160,206
+2020,93,Seine-Saint-Denis,Indiv_pur,362,298
+2020,93,Seine-Saint-Denis,Residence,2748,1824
+2020,93,Seine-Saint-Denis,Tous,12885,11648
+2020,94,Val-de-Marne,Collectif,4617,5107
+2020,94,Val-de-Marne,Indiv_groupe,159,88
+2020,94,Val-de-Marne,Indiv_pur,342,284
+2020,94,Val-de-Marne,Residence,2045,2568
+2020,94,Val-de-Marne,Tous,7163,8047
+2020,95,Val-d Oise,Collectif,4463,3518
+2020,95,Val-d Oise,Indiv_groupe,381,182
+2020,95,Val-d Oise,Indiv_pur,727,469
+2020,95,Val-d Oise,Residence,571,1513
+2020,95,Val-d Oise,Tous,6142,5682
+2021,75,Paris,Collectif,3440,4152
+2021,75,Paris,Indiv_groupe,146,400
+2021,75,Paris,Indiv_pur,182,88
+2021,75,Paris,Residence,1196,1562
+2021,75,Paris,Tous,4964,6202
+2021,77,Seine-et-Marne,Collectif,7944,6641
+2021,77,Seine-et-Marne,Indiv_groupe,787,559
+2021,77,Seine-et-Marne,Indiv_pur,2219,1196
+2021,77,Seine-et-Marne,Residence,1106,602
+2021,77,Seine-et-Marne,Tous,12056,8998
+2021,78,Yvelines,Collectif,5727,4308
+2021,78,Yvelines,Indiv_groupe,526,328
+2021,78,Yvelines,Indiv_pur,1513,1049
+2021,78,Yvelines,Residence,729,318
+2021,78,Yvelines,Tous,8495,6003
+2021,91,Essonne,Collectif,5766,4065
+2021,91,Essonne,Indiv_groupe,718,383
+2021,91,Essonne,Indiv_pur,1201,817
+2021,91,Essonne,Residence,436,641
+2021,91,Essonne,Tous,8121,5906
+2021,92,Hauts-de-Seine,Collectif,9165,9792
+2021,92,Hauts-de-Seine,Indiv_groupe,214,333
+2021,92,Hauts-de-Seine,Indiv_pur,239,183
+2021,92,Hauts-de-Seine,Residence,1566,1405
+2021,92,Hauts-de-Seine,Tous,11184,11713
+2021,93,Seine-Saint-Denis,Collectif,9880,10720
+2021,93,Seine-Saint-Denis,Indiv_groupe,289,185
+2021,93,Seine-Saint-Denis,Indiv_pur,383,254
+2021,93,Seine-Saint-Denis,Residence,919,2314
+2021,93,Seine-Saint-Denis,Tous,11471,13473
+2021,94,Val-de-Marne,Collectif,6975,4705
+2021,94,Val-de-Marne,Indiv_groupe,238,136
+2021,94,Val-de-Marne,Indiv_pur,421,326
+2021,94,Val-de-Marne,Residence,1086,1202
+2021,94,Val-de-Marne,Tous,8720,6369
+2021,95,Val-d Oise,Collectif,4055,4991
+2021,95,Val-d Oise,Indiv_groupe,278,271
+2021,95,Val-d Oise,Indiv_pur,881,578
+2021,95,Val-d Oise,Residence,1335,108
+2021,95,Val-d Oise,Tous,6549,5948
+2022,75,Paris,Collectif,3550,2472
+2022,75,Paris,Indiv_groupe,112,120
+2022,75,Paris,Indiv_pur,178,66
+2022,75,Paris,Residence,1122,764
+2022,75,Paris,Tous,4962,3422
+2022,77,Seine-et-Marne,Collectif,8042,4864
+2022,77,Seine-et-Marne,Indiv_groupe,898,425
+2022,77,Seine-et-Marne,Indiv_pur,1751,1144
+2022,77,Seine-et-Marne,Residence,838,873
+2022,77,Seine-et-Marne,Tous,11529,7306
+2022,78,Yvelines,Collectif,7013,4964
+2022,78,Yvelines,Indiv_groupe,465,441
+2022,78,Yvelines,Indiv_pur,1324,1147
+2022,78,Yvelines,Residence,1807,1648
+2022,78,Yvelines,Tous,10609,8200
+2022,91,Essonne,Collectif,4740,3619
+2022,91,Essonne,Indiv_groupe,440,632
+2022,91,Essonne,Indiv_pur,1115,929
+2022,91,Essonne,Residence,1708,1020
+2022,91,Essonne,Tous,8003,6200
+2022,92,Hauts-de-Seine,Collectif,9399,8251
+2022,92,Hauts-de-Seine,Indiv_groupe,597,147
+2022,92,Hauts-de-Seine,Indiv_pur,233,177
+2022,92,Hauts-de-Seine,Residence,808,1713
+2022,92,Hauts-de-Seine,Tous,11037,10288
+2022,93,Seine-Saint-Denis,Collectif,10369,7323
+2022,93,Seine-Saint-Denis,Indiv_groupe,287,198
+2022,93,Seine-Saint-Denis,Indiv_pur,370,226
+2022,93,Seine-Saint-Denis,Residence,2525,998
+2022,93,Seine-Saint-Denis,Tous,13551,8745
+2022,94,Val-de-Marne,Collectif,11091,8154
+2022,94,Val-de-Marne,Indiv_groupe,154,124
+2022,94,Val-de-Marne,Indiv_pur,333,245
+2022,94,Val-de-Marne,Residence,2113,394
+2022,94,Val-de-Marne,Tous,13691,8917
+2022,95,Val-d Oise,Collectif,4860,3668
+2022,95,Val-d Oise,Indiv_groupe,565,300
+2022,95,Val-d Oise,Indiv_pur,831,628
+2022,95,Val-d Oise,Residence,657,1584
+2022,95,Val-d Oise,Tous,6913,6180
+2023,75,Paris,Collectif,2018,1052
+2023,75,Paris,Indiv_groupe,56,46
+2023,75,Paris,Indiv_pur,180,58
+2023,75,Paris,Residence,1398,1226
+2023,75,Paris,Tous,3652,2382
+2023,77,Seine-et-Marne,Collectif,3933,3002
+2023,77,Seine-et-Marne,Indiv_groupe,501,317
+2023,77,Seine-et-Marne,Indiv_pur,1205,791
+2023,77,Seine-et-Marne,Residence,530,138
+2023,77,Seine-et-Marne,Tous,6169,4248
+2023,78,Yvelines,Collectif,5875,3830
+2023,78,Yvelines,Indiv_groupe,406,230
+2023,78,Yvelines,Indiv_pur,887,702
+2023,78,Yvelines,Residence,755,686
+2023,78,Yvelines,Tous,7923,5448
+2023,91,Essonne,Collectif,5474,3189
+2023,91,Essonne,Indiv_groupe,689,320
+2023,91,Essonne,Indiv_pur,805,703
+2023,91,Essonne,Residence,1348,719
+2023,91,Essonne,Tous,8316,4931
+2023,92,Hauts-de-Seine,Collectif,7334,5018
+2023,92,Hauts-de-Seine,Indiv_groupe,249,104
+2023,92,Hauts-de-Seine,Indiv_pur,172,127
+2023,92,Hauts-de-Seine,Residence,1475,332
+2023,92,Hauts-de-Seine,Tous,9230,5581
+2023,93,Seine-Saint-Denis,Collectif,8495,6357
+2023,93,Seine-Saint-Denis,Indiv_groupe,257,178
+2023,93,Seine-Saint-Denis,Indiv_pur,311,205
+2023,93,Seine-Saint-Denis,Residence,1628,1485
+2023,93,Seine-Saint-Denis,Tous,10691,8225
+2023,94,Val-de-Marne,Collectif,6423,5533
+2023,94,Val-de-Marne,Indiv_groupe,142,85
+2023,94,Val-de-Marne,Indiv_pur,322,228
+2023,94,Val-de-Marne,Residence,2260,2434
+2023,94,Val-de-Marne,Tous,9147,8280
+2023,95,Val-d Oise,Collectif,3986,2763
+2023,95,Val-d Oise,Indiv_groupe,417,204
+2023,95,Val-d Oise,Indiv_pur,521,408
+2023,95,Val-d Oise,Residence,1218,332
+2023,95,Val-d Oise,Tous,6142,3707
+2024,75,Paris,Collectif,4030,0
+2024,75,Paris,Indiv_groupe,310,0
+2024,75,Paris,Indiv_pur,234,0
+2024,75,Paris,Residence,3598,0
+2024,75,Paris,Tous,8172,0
+2024,77,Seine-et-Marne,Collectif,4125,0
+2024,77,Seine-et-Marne,Indiv_groupe,647,0
+2024,77,Seine-et-Marne,Indiv_pur,781,0
+2024,77,Seine-et-Marne,Residence,525,0
+2024,77,Seine-et-Marne,Tous,6078,0
+2024,78,Yvelines,Collectif,2685,0
+2024,78,Yvelines,Indiv_groupe,409,0
+2024,78,Yvelines,Indiv_pur,649,0
+2024,78,Yvelines,Residence,767,0
+2024,78,Yvelines,Tous,4510,0
+2024,91,Essonne,Collectif,3228,0
+2024,91,Essonne,Indiv_groupe,390,0
+2024,91,Essonne,Indiv_pur,533,0
+2024,91,Essonne,Residence,1483,0
+2024,91,Essonne,Tous,5634,0
+2024,92,Hauts-de-Seine,Collectif,7629,0
+2024,92,Hauts-de-Seine,Indiv_groupe,223,0
+2024,92,Hauts-de-Seine,Indiv_pur,159,0
+2024,92,Hauts-de-Seine,Residence,1849,0
+2024,92,Hauts-de-Seine,Tous,9860,0
+2024,93,Seine-Saint-Denis,Collectif,4787,0
+2024,93,Seine-Saint-Denis,Indiv_groupe,154,0
+2024,93,Seine-Saint-Denis,Indiv_pur,312,0
+2024,93,Seine-Saint-Denis,Residence,1654,0
+2024,93,Seine-Saint-Denis,Tous,6907,0
+2024,94,Val-de-Marne,Collectif,6775,0
+2024,94,Val-de-Marne,Indiv_groupe,152,0
+2024,94,Val-de-Marne,Indiv_pur,254,0
+2024,94,Val-de-Marne,Residence,4617,0
+2024,94,Val-de-Marne,Tous,11798,0
+2024,95,Val-d Oise,Collectif,2799,0
+2024,95,Val-d Oise,Indiv_groupe,251,0
+2024,95,Val-d Oise,Indiv_pur,442,0
+2024,95,Val-d Oise,Residence,235,0
+2024,95,Val-d Oise,Tous,3727,0
